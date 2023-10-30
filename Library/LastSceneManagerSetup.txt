@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/MikhailovNA IKBO-33-21.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
